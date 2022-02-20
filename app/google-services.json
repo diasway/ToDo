@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "968656429692",
+    "firebase_url": "https://cardview-4ccd8-default-rtdb.firebaseio.com",
+    "project_id": "cardview-4ccd8",
+    "storage_bucket": "cardview-4ccd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968656429692:android:356290b7ec364b7d19dff9",
+        "android_client_info": {
+          "package_name": "kz.diasart.cardviewdesign_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968656429692-ucbot0i19o6orjt45ofacgro1f0ftaim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs3-oLzjVLHxWHDU_7JEy5iuUhgXh71Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968656429692-ucbot0i19o6orjt45ofacgro1f0ftaim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968656429692:android:2bb607e882b93ec919dff9",
+        "android_client_info": {
+          "package_name": "kz.diasart.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968656429692-ucbot0i19o6orjt45ofacgro1f0ftaim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs3-oLzjVLHxWHDU_7JEy5iuUhgXh71Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968656429692-ucbot0i19o6orjt45ofacgro1f0ftaim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
